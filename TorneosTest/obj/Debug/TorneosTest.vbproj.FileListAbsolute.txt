@@ -1,0 +1,13 @@
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosTest\bin\Debug\TorneosTest.exe.config
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosTest\bin\Debug\TorneosTest.exe
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosTest\bin\Debug\TorneosTest.pdb
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosTest\bin\Debug\TorneosTest.xml
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosTest\bin\Debug\TorneosEntidades.dll
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosTest\bin\Debug\TorneosEntidades.pdb
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosTest\bin\Debug\TorneosEntidades.xml
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosTest\obj\Debug\TorneosTest.vbprojResolveAssemblyReference.cache
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosTest\obj\Debug\TorneosTest.Resources.resources
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosTest\obj\Debug\TorneosTest.vbproj.GenerateResource.Cache
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosTest\obj\Debug\TorneosTest.exe
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosTest\obj\Debug\TorneosTest.xml
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosTest\obj\Debug\TorneosTest.pdb

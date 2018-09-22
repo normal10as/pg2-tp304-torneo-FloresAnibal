@@ -1,0 +1,9 @@
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosEntidades\bin\Debug\TorneosEntidades.dll
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosEntidades\bin\Debug\TorneosEntidades.pdb
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosEntidades\bin\Debug\TorneosEntidades.xml
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosEntidades\obj\Debug\TorneosEntidades.vbprojResolveAssemblyReference.cache
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosEntidades\obj\Debug\TorneosEntidades.Resources.resources
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosEntidades\obj\Debug\TorneosEntidades.vbproj.GenerateResource.Cache
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosEntidades\obj\Debug\TorneosEntidades.dll
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosEntidades\obj\Debug\TorneosEntidades.xml
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Torneos\TorneosEntidades\obj\Debug\TorneosEntidades.pdb
