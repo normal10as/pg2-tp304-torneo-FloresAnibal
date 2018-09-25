@@ -1,11 +1,13 @@
 ﻿Public Class Equipo
     'campos
     Private _nombre As String
+    Private _jugadores As List(Of Jugador)
 
 
     'constructor
     Sub New(nombre As String)
         Me.Nombre = nombre
+        _jugadores = New List(Of Jugador)
     End Sub
 
 
@@ -19,6 +21,24 @@
         End Set
     End Property
 
+    Public Sub comprarJugador(jugador As Jugador)
+        jugador.Equipo = Me
+        _jugadores.Add(jugador)
+    End Sub
+
+    Public Function getAllJugadores() As List(Of Jugador)
+        Return _jugadores
+    End Function
+
+    Public Sub venderJugador(jugador As Jugador, equipoDestino As Equipo)
+        equipoDestino.comprarJugador(jugador) '= jugador.Equipo
+        liberarJugador(jugador)
+    End Sub
+
+    Public Sub liberarJugador(jugador)
+        'jugador.equipo = Nothing
+        _jugadores.Remove(jugador)
+    End Sub
 
     'metodos
     Public Overrides Function ToString() As String
