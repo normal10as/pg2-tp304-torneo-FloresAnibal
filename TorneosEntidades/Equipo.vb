@@ -22,8 +22,11 @@
     End Property
 
     Public Sub comprarJugador(jugador As Jugador)
-        jugador.Equipo = Me
-        _jugadores.Add(jugador)
+        'si el jugador pertenece a un equipo no se realiza la compra
+        If jugador.Equipo Is Nothing Then
+            jugador.Equipo = Me
+            _jugadores.Add(jugador)
+        End If
     End Sub
 
     Public Function getAllJugadores() As List(Of Jugador)
